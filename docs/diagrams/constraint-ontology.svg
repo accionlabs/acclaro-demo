@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1003.7795"
+   height="580.77954"
+   viewBox="0 0 1003.7795 580.77954"
+   version="1.1"
+   id="svg74"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs74" />
+  <rect
+     style="opacity:0.5;fill:#f9f9f9;stroke:none;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:round"
+     id="rect6"
+     width="1000"
+     height="577"
+     x="1.889765"
+     y="1.889765" />
+  <!-- Title -->
+  <!-- Root Node -->
+  <rect
+     x="401.88977"
+     y="31.889765"
+     width="200"
+     height="50"
+     rx="8"
+     fill="#fff9c4"
+     stroke="#fbbf24"
+     stroke-width="3"
+     id="rect1" />
+  <text
+     x="501.82483"
+     y="53.208614"
+     font-size="14px"
+     text-anchor="middle"
+     fill="#78350f"
+     font-weight="700"
+     id="text2"><tspan
+       id="tspan1"
+       x="501.82483"
+       y="53.208614">Content Language</tspan><tspan
+       id="tspan2"
+       x="501.82483"
+       y="70.708611">Constraints</tspan></text>
+  <!-- Level 1: Main Categories -->
+  <!-- Brand Identity -->
+  <rect
+     x="51.889767"
+     y="151.88977"
+     width="140"
+     height="50"
+     rx="6"
+     fill="#dbeafe"
+     stroke="#3b82f6"
+     stroke-width="2"
+     id="rect2" />
+  <text
+     x="121.88976"
+     y="181.88977"
+     font-size="12px"
+     text-anchor="middle"
+     fill="#1e40af"
+     font-weight="600"
+     id="text3">Brand Identity</text>
+  <!-- Terminology -->
+  <rect
+     x="211.88977"
+     y="151.88977"
+     width="140"
+     height="50"
+     rx="6"
+     fill="#d1fae5"
+     stroke="#10b981"
+     stroke-width="2"
+     id="rect3" />
+  <text
+     x="281.88977"
+     y="181.88977"
+     font-size="12px"
+     text-anchor="middle"
+     fill="#065f46"
+     font-weight="600"
+     id="text4">Terminology</text>
+  <!-- Grammar & Style -->
+  <rect
+     x="371.88977"
+     y="151.88977"
+     width="140"
+     height="50"
+     rx="6"
+     fill="#fef3c7"
+     stroke="#f59e0b"
+     stroke-width="2"
+     id="rect4" />
+  <text
+     x="441.88977"
+     y="181.88977"
+     font-size="12px"
+     text-anchor="middle"
+     fill="#78350f"
+     font-weight="600"
+     id="text5">Grammar Style</text>
+  <!-- Cultural & Localization -->
+  <rect
+     x="531.88977"
+     y="151.88977"
+     width="140"
+     height="50"
+     rx="6"
+     fill="#e9d5ff"
+     stroke="#a855f7"
+     stroke-width="2"
+     id="rect5" />
+  <text
+     x="601.88977"
+     y="171.88977"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#6b21a8"
+     font-weight="600"
+     id="text6">Cultural</text>
+  <text
+     x="601.88977"
+     y="186.88977"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#6b21a8"
+     font-weight="600"
+     id="text7">Localization</text>
+  <!-- Compliance & Legal -->
+  <rect
+     x="691.88977"
+     y="151.88977"
+     width="140"
+     height="50"
+     rx="6"
+     fill="#fecaca"
+     stroke="#ef4444"
+     stroke-width="2"
+     id="rect7" />
+  <text
+     x="761.88977"
+     y="171.88977"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#991b1b"
+     font-weight="600"
+     id="text8">Compliance</text>
+  <text
+     x="761.88977"
+     y="186.88977"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#991b1b"
+     font-weight="600"
+     id="text9">Legal</text>
+  <!-- Technical Content -->
+  <rect
+     x="851.88977"
+     y="151.88977"
+     width="140"
+     height="50"
+     rx="6"
+     fill="#ccfbf1"
+     stroke="#14b8a6"
+     stroke-width="2"
+     id="rect9" />
+  <text
+     x="921.88977"
+     y="171.88977"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#134e4a"
+     font-weight="600"
+     id="text10">Technical</text>
+  <text
+     x="921.88977"
+     y="186.88977"
+     font-size="11px"
+     text-anchor="middle"
+     fill="#134e4a"
+     font-weight="600"
+     id="text11">Content</text>
+  <!-- Level 2: Subcategories for Brand Identity -->
+  <rect
+     x="66.395882"
+     y="228.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#eff6ff"
+     stroke="#3b82f6"
+     stroke-width="1.5"
+     id="rect11" />
+  <text
+     x="121.39588"
+     y="253.50891"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#1e40af"
+     id="text12">Brand Voice</text>
+  <rect
+     x="66.395882"
+     y="283.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#eff6ff"
+     stroke="#3b82f6"
+     stroke-width="1.5"
+     id="rect12" />
+  <text
+     x="121.39588"
+     y="308.50891"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#1e40af"
+     id="text13">Tone Guidelines</text>
+  <rect
+     x="66.395882"
+     y="338.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#eff6ff"
+     stroke="#3b82f6"
+     stroke-width="1.5"
+     id="rect13" />
+  <text
+     x="121.39588"
+     y="363.50891"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#1e40af"
+     id="text14">Prohibited Terms</text>
+  <!-- Level 2: Subcategories for Terminology -->
+  <rect
+     x="226.39589"
+     y="228.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#f0fdf4"
+     stroke="#10b981"
+     stroke-width="1.5"
+     id="rect14" />
+  <text
+     x="281.3959"
+     y="253.50891"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#065f46"
+     id="text15">Product Names</text>
+  <rect
+     x="226.39589"
+     y="283.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#f0fdf4"
+     stroke="#10b981"
+     stroke-width="1.5"
+     id="rect15" />
+  <text
+     x="281.3959"
+     y="308.50891"
+     font-size="10px"
+     text-anchor="middle"
+     fill="#065f46"
+     id="text16">UI Labels</text>
+  <rect
+     x="226.39589"
+     y="338.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#f0fdf4"
+     stroke="#10b981"
+     stroke-width="1.5"
+     id="rect16" />
+  <text
+     x="281.3959"
+     y="356.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#065f46"
+     id="text17">Industry</text>
+  <text
+     x="281.3959"
+     y="368.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#065f46"
+     id="text18">Jargon</text>
+  <rect
+     x="226.39589"
+     y="393.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#f0fdf4"
+     stroke="#10b981"
+     stroke-width="1.5"
+     id="rect18" />
+  <text
+     x="281.3959"
+     y="411.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#065f46"
+     id="text19">Standard</text>
+  <text
+     x="281.3959"
+     y="423.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#065f46"
+     id="text20">Terms</text>
+  <!-- Level 2: Subcategories for Grammar & Style -->
+  <rect
+     x="386.3959"
+     y="228.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#fffbeb"
+     stroke="#f59e0b"
+     stroke-width="1.5"
+     id="rect20" />
+  <text
+     x="441.3959"
+     y="246.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#78350f"
+     id="text21">Sentence</text>
+  <text
+     x="441.3959"
+     y="258.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#78350f"
+     id="text22">Structure</text>
+  <rect
+     x="386.3959"
+     y="283.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#fffbeb"
+     stroke="#f59e0b"
+     stroke-width="1.5"
+     id="rect22" />
+  <text
+     x="441.3959"
+     y="301.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#78350f"
+     id="text23">Formatting</text>
+  <text
+     x="441.3959"
+     y="313.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#78350f"
+     id="text24">Standards</text>
+  <rect
+     x="386.3959"
+     y="338.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#fffbeb"
+     stroke="#f59e0b"
+     stroke-width="1.5"
+     id="rect24" />
+  <text
+     x="441.3959"
+     y="356.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#78350f"
+     id="text25">Active vs</text>
+  <text
+     x="441.3959"
+     y="368.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#78350f"
+     id="text26">Passive Voice</text>
+  <!-- Level 2: Subcategories for Cultural & Localization -->
+  <rect
+     x="546.39587"
+     y="228.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#faf5ff"
+     stroke="#a855f7"
+     stroke-width="1.5"
+     id="rect26" />
+  <text
+     x="601.39587"
+     y="246.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#6b21a8"
+     id="text27">Cultural</text>
+  <text
+     x="601.39587"
+     y="258.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#6b21a8"
+     id="text28">Sensitivities</text>
+  <rect
+     x="546.39587"
+     y="283.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#faf5ff"
+     stroke="#a855f7"
+     stroke-width="1.5"
+     id="rect28" />
+  <text
+     x="601.39587"
+     y="301.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#6b21a8"
+     id="text29">Regional</text>
+  <text
+     x="601.39587"
+     y="313.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#6b21a8"
+     id="text30">Preferences</text>
+  <rect
+     x="546.39587"
+     y="338.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#faf5ff"
+     stroke="#a855f7"
+     stroke-width="1.5"
+     id="rect30" />
+  <text
+     x="601.39587"
+     y="356.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#6b21a8"
+     id="text31">Date/Time</text>
+  <text
+     x="601.39587"
+     y="368.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#6b21a8"
+     id="text32">Formats</text>
+  <!-- Level 2: Subcategories for Compliance & Legal -->
+  <rect
+     x="706.39587"
+     y="228.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#fee2e2"
+     stroke="#ef4444"
+     stroke-width="1.5"
+     id="rect32" />
+  <text
+     x="761.39587"
+     y="246.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#991b1b"
+     id="text33">Legal</text>
+  <text
+     x="761.39587"
+     y="258.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#991b1b"
+     id="text34">Requirements</text>
+  <rect
+     x="706.39587"
+     y="283.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#fee2e2"
+     stroke="#ef4444"
+     stroke-width="1.5"
+     id="rect34" />
+  <text
+     x="761.39587"
+     y="301.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#991b1b"
+     id="text35">Industry</text>
+  <text
+     x="761.39587"
+     y="313.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#991b1b"
+     id="text36">Standards</text>
+  <rect
+     x="706.39587"
+     y="338.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#fee2e2"
+     stroke="#ef4444"
+     stroke-width="1.5"
+     id="rect36" />
+  <text
+     x="761.39587"
+     y="356.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#991b1b"
+     id="text37">Accessibility</text>
+  <text
+     x="761.39587"
+     y="368.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#991b1b"
+     id="text38">Rules</text>
+  <!-- Level 2: Subcategories for Technical Content -->
+  <rect
+     x="866.39587"
+     y="228.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#f0fdfa"
+     stroke="#14b8a6"
+     stroke-width="1.5"
+     id="rect38" />
+  <text
+     x="921.39587"
+     y="246.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#134e4a"
+     id="text39">API</text>
+  <text
+     x="921.39587"
+     y="258.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#134e4a"
+     id="text40">Documentation</text>
+  <rect
+     x="866.39587"
+     y="283.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#f0fdfa"
+     stroke="#14b8a6"
+     stroke-width="1.5"
+     id="rect40" />
+  <text
+     x="921.39587"
+     y="301.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#134e4a"
+     id="text41">Error</text>
+  <text
+     x="921.39587"
+     y="313.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#134e4a"
+     id="text42">Messages</text>
+  <rect
+     x="866.39587"
+     y="338.50891"
+     width="110"
+     height="40"
+     rx="4"
+     fill="#f0fdfa"
+     stroke="#14b8a6"
+     stroke-width="1.5"
+     id="rect42" />
+  <text
+     x="921.39587"
+     y="356.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#134e4a"
+     id="text43">System</text>
+  <text
+     x="921.39587"
+     y="368.50891"
+     font-size="9px"
+     text-anchor="middle"
+     fill="#134e4a"
+     id="text44">Messages</text>
+  <!-- Connection lines from root to categories -->
+  <line
+     x1="451.88977"
+     y1="81.889763"
+     x2="121.88976"
+     y2="151.88977"
+     stroke="#94a3b8"
+     stroke-width="1.5"
+     id="line44" />
+  <line
+     x1="481.88977"
+     y1="81.889763"
+     x2="281.88977"
+     y2="151.88977"
+     stroke="#94a3b8"
+     stroke-width="1.5"
+     id="line45" />
+  <line
+     x1="501.88977"
+     y1="81.889763"
+     x2="441.88977"
+     y2="151.88977"
+     stroke="#94a3b8"
+     stroke-width="1.5"
+     id="line46" />
+  <line
+     x1="521.88977"
+     y1="81.889763"
+     x2="601.88977"
+     y2="151.88977"
+     stroke="#94a3b8"
+     stroke-width="1.5"
+     id="line47" />
+  <line
+     x1="541.88977"
+     y1="81.889763"
+     x2="761.88977"
+     y2="151.88977"
+     stroke="#94a3b8"
+     stroke-width="1.5"
+     id="line48" />
+  <line
+     x1="561.88977"
+     y1="81.889763"
+     x2="921.88977"
+     y2="151.88977"
+     stroke="#94a3b8"
+     stroke-width="1.5"
+     id="line49" />
+  <!-- Connection lines from categories to subcategories -->
+  <!-- Brand Identity -->
+  <!-- Terminology -->
+  <!-- Grammar & Style -->
+  <!-- Cultural & Localization -->
+  <!-- Compliance & Legal -->
+  <!-- Technical Content -->
+  <!-- Legend -->
+  <rect
+     x="54.476681"
+     y="480.88977"
+     width="900"
+     height="60"
+     rx="6"
+     fill="#f8fafc"
+     stroke="#cbd5e1"
+     stroke-width="1"
+     id="rect68" />
+  <text
+     x="74.476677"
+     y="505.88977"
+     font-size="11px"
+     fill="#475569"
+     font-weight="600"
+     id="text68">Categories:</text>
+  <rect
+     x="74.476677"
+     y="515.88977"
+     width="12"
+     height="12"
+     fill="#3b82f6"
+     id="rect69" />
+  <text
+     x="91.476677"
+     y="525.88977"
+     font-size="9px"
+     fill="#64748b"
+     id="text69">Brand</text>
+  <rect
+     x="134.47668"
+     y="515.88977"
+     width="12"
+     height="12"
+     fill="#10b981"
+     id="rect70" />
+  <text
+     x="151.47668"
+     y="525.88977"
+     font-size="9px"
+     fill="#64748b"
+     id="text70">Terminology</text>
+  <rect
+     x="224.47668"
+     y="515.88977"
+     width="12"
+     height="12"
+     fill="#f59e0b"
+     id="rect71" />
+  <text
+     x="241.47668"
+     y="525.88977"
+     font-size="9px"
+     fill="#64748b"
+     id="text71">Grammar</text>
+  <rect
+     x="304.47668"
+     y="515.88977"
+     width="12"
+     height="12"
+     fill="#a855f7"
+     id="rect72" />
+  <text
+     x="321.47668"
+     y="525.88977"
+     font-size="9px"
+     fill="#64748b"
+     id="text72">Cultural</text>
+  <rect
+     x="384.47668"
+     y="515.88977"
+     width="12"
+     height="12"
+     fill="#ef4444"
+     id="rect73" />
+  <text
+     x="401.47668"
+     y="525.88977"
+     font-size="9px"
+     fill="#64748b"
+     id="text73">Compliance</text>
+  <rect
+     x="484.47668"
+     y="515.88977"
+     width="12"
+     height="12"
+     fill="#14b8a6"
+     id="rect74" />
+  <text
+     x="501.47668"
+     y="525.88977"
+     font-size="9px"
+     fill="#64748b"
+     id="text74">Technical</text>
+</svg>
