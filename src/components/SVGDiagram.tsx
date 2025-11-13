@@ -5,8 +5,9 @@ interface SVGDiagramProps {
 }
 
 const SVGDiagram = ({ src, alt, className = '' }: SVGDiagramProps) => {
+  const fullSrc = import.meta.env.BASE_URL + src.replace(/^\//, '');
   return (
-    <img src={src} alt={alt} className={`object-contain ${className}`} />
+    <img src={fullSrc} alt={alt} className={`object-contain ${className}`} />
   );
 };
 
